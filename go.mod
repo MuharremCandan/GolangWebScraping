@@ -1,4 +1,4 @@
-module webScraming
+module webScraping
 
 go 1.13
 
